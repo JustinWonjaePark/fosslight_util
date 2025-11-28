@@ -1,3 +1,159 @@
+MODIFIED FILE/MODIFIED FILE
+## v1.4.45 (10/06/2024)
+## Changes^M
+## 🐛 Hotfixes^M
+^M
+- Fix the download alarm error @dd-jy (#163)^M
+^M
+## 🔧 Maintenance^M
+^M
+- Modify column name @bjk7119 (#164)^M
+
+---
+
+## v1.4.44 (29/05/2024)
+## Changes^M
+## 🔧 Maintenance^M
+^M
+- Print TLSH, SHA1 to row from loaded yaml @bjk7119 (#162)^M
+
+---
+
+## v1.4.43 (16/05/2024)
+## Changes^M
+## 🔧 Maintenance^M
+^M
+- Add log and cover item for excluded path @SeongjunJo (#161)^M
+
+---
+
+## v1.4.42 (08/05/2024)
+## Changes^M
+## 🚀 Features^M
+^M
+- Add functions to clone private repository and ssh url @SeongjunJo (#159)^M
+
+---
+
+## v1.4.41 (07/05/2024)
+## Changes^M
+## 🚀 Features^M
+^M
+- Add depends_on, purl in yaml @dd-jy (#155)^M
+^M
+## 🐛 Hotfixes^M
+^M
+- Set the default link value when downloading @soimkim (#158)^M
+^M
+## 🔧 Maintenance^M
+^M
+- Print TLSH, SHA1 to the report @bjk7119 (#160)^M
+
+
+
+## v1.4.45 (10/06/2024)
+## Changes^M
+## 🐛 Hotfixes^M
+^M
+- Fix the download alarm error @dd-jy (#163)^M
+^M
+## 🔧 Maintenance^M
+^M
+- Modify column name @bjk7119 (#164)^M
+
+---
+
+## v1.4.44 (29/05/2024)
+## Changes^M
+## 🔧 Maintenance^M
+^M
+- Print TLSH, SHA1 to row from loaded yaml @bjk7119 (#162)^M
+
+---
+
+## v1.4.43 (16/05/2024)
+## Changes^M
+## 🔧 Maintenance^M
+^M
+- Add log and cover item for excluded path @SeongjunJo (#161)^M
+
+---
+
+## v1.4.42 (08/05/2024)
+## Changes^M
+## 🚀 Features^M
+^M
+- Add functions to clone private repository and ssh url @SeongjunJo (#159)^M
+
+---
+
+## v1.4.41 (07/05/2024)
+## Changes^M
+## 🚀 Features^M
+^M
+- Add depends_on, purl in yaml @dd-jy (#155)^M
+^M
+## 🐛 Hotfixes^M
+^M
+- Set the default link value when downloading @soimkim (#158)^M
+^M
+## 🔧 Maintenance^M
+^M
+- Print TLSH, SHA1 to the report @bjk7119 (#160)^M
+
+
+
+## v1.4.45 (10/06/2024)
+## Changes^M
+## 🐛 Hotfixes^M
+^M
+- Fix the download alarm error @dd-jy (#163)^M
+^M
+## 🔧 Maintenance^M
+^M
+- Modify column name @bjk7119 (#164)^M
+
+---
+
+## v1.4.44 (29/05/2024)
+## Changes^M
+## 🔧 Maintenance^M
+^M
+- Print TLSH, SHA1 to row from loaded yaml @bjk7119 (#162)^M
+
+---
+
+## v1.4.43 (16/05/2024)
+## Changes^M
+## 🔧 Maintenance^M
+^M
+- Add log and cover item for excluded path @SeongjunJo (#161)^M
+
+---
+
+## v1.4.42 (08/05/2024)
+## Changes^M
+## 🚀 Features^M
+^M
+- Add functions to clone private repository and ssh url @SeongjunJo (#159)^M
+
+---
+
+## v1.4.41 (07/05/2024)
+## Changes^M
+## 🚀 Features^M
+^M
+- Add depends_on, purl in yaml @dd-jy (#155)^M
+^M
+## 🐛 Hotfixes^M
+^M
+- Set the default link value when downloading @soimkim (#158)^M
+^M
+## 🔧 Maintenance^M
+^M
+- Print TLSH, SHA1 to the report @bjk7119 (#160)^M
+
+
 # Changelog
 
 ## v1.4.45 (10/06/2024)
